@@ -1,0 +1,18 @@
+.icon {
+    margin-right: -25px;
+    z-index: 100;
+    padding-top: 10px;
+    color: gray;
+}
+
+input::placeholder {
+    padding-left: px;
+}
+input {
+    padding-left: 30px !important;
+}
+.border-l {
+  padding-left: 10px;
+  border-left: 8px solid blue;
+  border-radius: 3px;
+}
